@@ -1,5 +1,3 @@
-import { artists } from '/data/artists.js';
-
 const urlParams = new URLSearchParams(window.location.search);
 const artistId = urlParams.get('id');
 console.log(`getting ${artistId}`);
