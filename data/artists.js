@@ -64,7 +64,7 @@ export const artists = [
   {
     artistId: 7,
     artistName: 'Charlie Puth',
-    artistDescription: '',
+    artistDescription: 'charlie poo poo',
     artistStrength: 2,
     artistCharisma: 6,
     artistAlignment: 'good',
