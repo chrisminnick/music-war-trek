@@ -1,23 +1,12 @@
-# music-war-trek
-Demo project site for EDP June/July 2025. Come add a band!
+# React + Vite
 
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## Todo
+Currently, two official plugins are available:
 
-- Load artist data using fetch
-- Populate artist page using a loop
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Instructions
+## Expanding the ESLint configuration
 
-- `npm install`
-- `npm start`
-- open http://localhost:3000 in a browser
-
-## Poem:
-
-Ducks here
-Ducks there 
-Ducks everywhere
-
-
-xX_Steven wuz here_Xx
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
