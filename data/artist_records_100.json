@@ -1,0 +1,1032 @@
+[
+  {
+    "artistId": "1",
+    "artistName": "Ludwig van Beethoven",
+    "artistDescription": "German composer and pianist who shaped the transition between Classical and Romantic eras.",
+    "artistStrength": 5,
+    "artistCharisma": 0,
+    "artistAlignment": "evil",
+    "artistIntelligence": 9,
+    "artistSpecialPowers": "Composing symphonies while deaf"
+  },
+  {
+    "artistId": "2",
+    "artistName": "Freddie Mercury",
+    "artistDescription": "Dynamic lead singer of Queen, famed for vocal range and stage presence.",
+    "artistStrength": 3,
+    "artistCharisma": 5,
+    "artistAlignment": "evil",
+    "artistIntelligence": 4,
+    "artistSpecialPowers": "Commanding any audience"
+  },
+  {
+    "artistId": "3",
+    "artistName": "Beyonc\u00e9",
+    "artistDescription": "Global superstar singer, songwriter, and producer, known for powerful vocals.",
+    "artistStrength": 5,
+    "artistCharisma": 6,
+    "artistAlignment": "evil",
+    "artistIntelligence": 8,
+    "artistSpecialPowers": "Flawless live performances"
+  },
+  {
+    "artistId": "4",
+    "artistName": "Wolfgang Amadeus Mozart",
+    "artistDescription": "Prodigious Austrian composer of the Classical era.",
+    "artistStrength": 5,
+    "artistCharisma": 2,
+    "artistAlignment": "good",
+    "artistIntelligence": 4,
+    "artistSpecialPowers": "Composing at superhuman speed"
+  },
+  {
+    "artistId": "5",
+    "artistName": "Madonna",
+    "artistDescription": "The 'Queen of Pop', reinventing pop culture for decades.",
+    "artistStrength": 3,
+    "artistCharisma": 7,
+    "artistAlignment": "evil",
+    "artistIntelligence": 9,
+    "artistSpecialPowers": "Master of reinvention"
+  },
+  {
+    "artistId": "6",
+    "artistName": "Kanye West",
+    "artistDescription": "Innovative rapper, producer, and fashion designer.",
+    "artistStrength": 7,
+    "artistCharisma": 0,
+    "artistAlignment": "neutral",
+    "artistIntelligence": 9,
+    "artistSpecialPowers": "Unpredictable creative vision"
+  },
+  {
+    "artistId": "7",
+    "artistName": "Billie Eilish",
+    "artistDescription": "Gen Z pop icon known for haunting vocals and genre-blending music.",
+    "artistStrength": 7,
+    "artistCharisma": 5,
+    "artistAlignment": "good",
+    "artistIntelligence": 1,
+    "artistSpecialPowers": "Making whisper-singing cool"
+  },
+  {
+    "artistId": "8",
+    "artistName": "David Bowie",
+    "artistDescription": "Visionary rock artist, actor, and style icon.",
+    "artistStrength": 1,
+    "artistCharisma": 2,
+    "artistAlignment": "evil",
+    "artistIntelligence": 3,
+    "artistSpecialPowers": "Shapeshifting personas"
+  },
+  {
+    "artistId": "9",
+    "artistName": "Ella Fitzgerald",
+    "artistDescription": "The 'First Lady of Song', known for perfect pitch and scat singing.",
+    "artistStrength": 4,
+    "artistCharisma": 9,
+    "artistAlignment": "evil",
+    "artistIntelligence": 6,
+    "artistSpecialPowers": "Scat improvisation mastery"
+  },
+  {
+    "artistId": "10",
+    "artistName": "Miles Davis",
+    "artistDescription": "Jazz trumpeter and composer, innovator of several jazz styles.",
+    "artistStrength": 2,
+    "artistCharisma": 7,
+    "artistAlignment": "good",
+    "artistIntelligence": 3,
+    "artistSpecialPowers": "Shifting the jazz landscape"
+  },
+  {
+    "artistId": "11",
+    "artistName": "Taylor Swift",
+    "artistDescription": "Pop and country superstar, acclaimed songwriter and performer.",
+    "artistStrength": 6,
+    "artistCharisma": 0,
+    "artistAlignment": "good",
+    "artistIntelligence": 7,
+    "artistSpecialPowers": "Turning heartbreak into hits"
+  },
+  {
+    "artistId": "12",
+    "artistName": "Johann Sebastian Bach",
+    "artistDescription": "German Baroque composer and organist, master of counterpoint.",
+    "artistStrength": 9,
+    "artistCharisma": 2,
+    "artistAlignment": "good",
+    "artistIntelligence": 3,
+    "artistSpecialPowers": "Mathematical musical genius"
+  },
+  {
+    "artistId": "13",
+    "artistName": "Aretha Franklin",
+    "artistDescription": "The 'Queen of Soul', legendary singer and pianist.",
+    "artistStrength": 6,
+    "artistCharisma": 4,
+    "artistAlignment": "neutral",
+    "artistIntelligence": 0,
+    "artistSpecialPowers": "Vocal power that moves nations"
+  },
+  {
+    "artistId": "14",
+    "artistName": "Kurt Cobain",
+    "artistDescription": "Grunge pioneer, lead singer and guitarist of Nirvana.",
+    "artistStrength": 2,
+    "artistCharisma": 9,
+    "artistAlignment": "good",
+    "artistIntelligence": 5,
+    "artistSpecialPowers": "Turning angst into anthems"
+  },
+  {
+    "artistId": "15",
+    "artistName": "Prince",
+    "artistDescription": "Multi-instrumentalist, songwriter, and electrifying performer.",
+    "artistStrength": 6,
+    "artistCharisma": 7,
+    "artistAlignment": "evil",
+    "artistIntelligence": 5,
+    "artistSpecialPowers": "Unmatched musical versatility"
+  },
+  {
+    "artistId": "16",
+    "artistName": "Bob Dylan",
+    "artistDescription": "Influential folk and rock singer-songwriter, Nobel laureate.",
+    "artistStrength": 3,
+    "artistCharisma": 1,
+    "artistAlignment": "good",
+    "artistIntelligence": 6,
+    "artistSpecialPowers": "Poetic songwriting"
+  },
+  {
+    "artistId": "17",
+    "artistName": "Lady Gaga",
+    "artistDescription": "Boundary-pushing pop star, actress, and songwriter.",
+    "artistStrength": 8,
+    "artistCharisma": 6,
+    "artistAlignment": "neutral",
+    "artistIntelligence": 4,
+    "artistSpecialPowers": "Reinventing pop spectacle"
+  },
+  {
+    "artistId": "18",
+    "artistName": "Johannes Brahms",
+    "artistDescription": "Romantic composer and pianist known for symphonies and concertos.",
+    "artistStrength": 0,
+    "artistCharisma": 3,
+    "artistAlignment": "evil",
+    "artistIntelligence": 4,
+    "artistSpecialPowers": "Emotional orchestral power"
+  },
+  {
+    "artistId": "19",
+    "artistName": "Joni Mitchell",
+    "artistDescription": "Singer-songwriter blending folk, pop, and jazz, with poetic lyrics.",
+    "artistStrength": 3,
+    "artistCharisma": 0,
+    "artistAlignment": "good",
+    "artistIntelligence": 7,
+    "artistSpecialPowers": "Storytelling through song"
+  },
+  {
+    "artistId": "20",
+    "artistName": "Elvis Presley",
+    "artistDescription": "The 'King of Rock and Roll', cultural icon.",
+    "artistStrength": 1,
+    "artistCharisma": 2,
+    "artistAlignment": "evil",
+    "artistIntelligence": 5,
+    "artistSpecialPowers": "Hip-shaking charisma"
+  },
+  {
+    "artistId": "21",
+    "artistName": "Stevie Wonder",
+    "artistDescription": "Multi-instrumentalist and soul legend, known for songwriting and innovation.",
+    "artistStrength": 3,
+    "artistCharisma": 4,
+    "artistAlignment": "neutral",
+    "artistIntelligence": 8,
+    "artistSpecialPowers": "Blending pop and soul seamlessly"
+  },
+  {
+    "artistId": "22",
+    "artistName": "Sergei Rachmaninoff",
+    "artistDescription": "Russian composer and virtuoso pianist of the Romantic era.",
+    "artistStrength": 0,
+    "artistCharisma": 3,
+    "artistAlignment": "neutral",
+    "artistIntelligence": 2,
+    "artistSpecialPowers": "Epic piano concertos"
+  },
+  {
+    "artistId": "23",
+    "artistName": "Adele",
+    "artistDescription": "British singer-songwriter, famed for powerhouse vocals and heartfelt ballads.",
+    "artistStrength": 1,
+    "artistCharisma": 0,
+    "artistAlignment": "evil",
+    "artistIntelligence": 4,
+    "artistSpecialPowers": "Turning heartbreak into chart-toppers"
+  },
+  {
+    "artistId": "24",
+    "artistName": "Trent Reznor",
+    "artistDescription": "Founder of Nine Inch Nails, composer, producer, and film scorer.",
+    "artistStrength": 4,
+    "artistCharisma": 1,
+    "artistAlignment": "evil",
+    "artistIntelligence": 6,
+    "artistSpecialPowers": "Industrial soundscapes"
+  },
+  {
+    "artistId": "25",
+    "artistName": "Dr. Dre",
+    "artistDescription": "Rap icon, producer, and business mogul, shaping the sound of hip-hop.",
+    "artistStrength": 2,
+    "artistCharisma": 7,
+    "artistAlignment": "good",
+    "artistIntelligence": 5,
+    "artistSpecialPowers": "Ear for new talent"
+  },
+  {
+    "artistId": "26",
+    "artistName": "Shakira",
+    "artistDescription": "Colombian pop star known for her unique voice and dance moves.",
+    "artistStrength": 0,
+    "artistCharisma": 7,
+    "artistAlignment": "evil",
+    "artistIntelligence": 4,
+    "artistSpecialPowers": "Hips that hypnotize"
+  },
+  {
+    "artistId": "27",
+    "artistName": "Antonio Vivaldi",
+    "artistDescription": "Italian Baroque composer and violinist, 'The Four Seasons' creator.",
+    "artistStrength": 6,
+    "artistCharisma": 9,
+    "artistAlignment": "good",
+    "artistIntelligence": 5,
+    "artistSpecialPowers": "Virtuoso violin compositions"
+  },
+  {
+    "artistId": "28",
+    "artistName": "Paul McCartney",
+    "artistDescription": "Beatle, solo artist, and one of the most successful songwriters.",
+    "artistStrength": 4,
+    "artistCharisma": 5,
+    "artistAlignment": "evil",
+    "artistIntelligence": 7,
+    "artistSpecialPowers": "Melodic invention"
+  },
+  {
+    "artistId": "29",
+    "artistName": "Nina Simone",
+    "artistDescription": "Jazz, blues, and soul singer, pianist, and civil rights activist.",
+    "artistStrength": 7,
+    "artistCharisma": 6,
+    "artistAlignment": "evil",
+    "artistIntelligence": 9,
+    "artistSpecialPowers": "Channeling emotion through song"
+  },
+  {
+    "artistId": "30",
+    "artistName": "Daft Punk",
+    "artistDescription": "French electronic music duo, pioneers of house and dance music.",
+    "artistStrength": 1,
+    "artistCharisma": 4,
+    "artistAlignment": "neutral",
+    "artistIntelligence": 6,
+    "artistSpecialPowers": "Robot mystique"
+  },
+  {
+    "artistId": "31",
+    "artistName": "Whitney Houston",
+    "artistDescription": "One of the greatest voices in pop and R&B.",
+    "artistStrength": 3,
+    "artistCharisma": 5,
+    "artistAlignment": "neutral",
+    "artistIntelligence": 8,
+    "artistSpecialPowers": "Effortless vocal range"
+  },
+  {
+    "artistId": "32",
+    "artistName": "Ed Sheeran",
+    "artistDescription": "British singer-songwriter known for melodic pop and heartfelt lyrics.",
+    "artistStrength": 9,
+    "artistCharisma": 1,
+    "artistAlignment": "evil",
+    "artistIntelligence": 8,
+    "artistSpecialPowers": "Loop pedal wizardry"
+  },
+  {
+    "artistId": "33",
+    "artistName": "Elton John",
+    "artistDescription": "Piano legend and pop star with flamboyant style.",
+    "artistStrength": 8,
+    "artistCharisma": 6,
+    "artistAlignment": "evil",
+    "artistIntelligence": 2,
+    "artistSpecialPowers": "Anthemic ballads"
+  },
+  {
+    "artistId": "34",
+    "artistName": "Nicki Minaj",
+    "artistDescription": "Rapper and singer known for dynamic flow and alter egos.",
+    "artistStrength": 7,
+    "artistCharisma": 8,
+    "artistAlignment": "good",
+    "artistIntelligence": 4,
+    "artistSpecialPowers": "Rapid-fire verses"
+  },
+  {
+    "artistId": "35",
+    "artistName": "Rihanna",
+    "artistDescription": "Barbadian pop and R&B star, business mogul.",
+    "artistStrength": 6,
+    "artistCharisma": 1,
+    "artistAlignment": "good",
+    "artistIntelligence": 4,
+    "artistSpecialPowers": "Effortless genre hopping"
+  },
+  {
+    "artistId": "36",
+    "artistName": "James Brown",
+    "artistDescription": "The 'Godfather of Soul', known for energetic performances.",
+    "artistStrength": 1,
+    "artistCharisma": 2,
+    "artistAlignment": "neutral",
+    "artistIntelligence": 3,
+    "artistSpecialPowers": "Infectious groove"
+  },
+  {
+    "artistId": "37",
+    "artistName": "Johnny Cash",
+    "artistDescription": "Iconic country singer and songwriter.",
+    "artistStrength": 6,
+    "artistCharisma": 7,
+    "artistAlignment": "neutral",
+    "artistIntelligence": 1,
+    "artistSpecialPowers": "Voice of the everyman"
+  },
+  {
+    "artistId": "38",
+    "artistName": "Brian Wilson",
+    "artistDescription": "Beach Boys mastermind, architect of lush pop harmonies.",
+    "artistStrength": 6,
+    "artistCharisma": 1,
+    "artistAlignment": "neutral",
+    "artistIntelligence": 9,
+    "artistSpecialPowers": "Studio wizardry"
+  },
+  {
+    "artistId": "39",
+    "artistName": "Frank Sinatra",
+    "artistDescription": "The 'Chairman of the Board', influential singer and actor.",
+    "artistStrength": 1,
+    "artistCharisma": 2,
+    "artistAlignment": "neutral",
+    "artistIntelligence": 9,
+    "artistSpecialPowers": "Silky smooth phrasing"
+  },
+  {
+    "artistId": "40",
+    "artistName": "Jay-Z",
+    "artistDescription": "Hip-hop mogul and entrepreneur, celebrated lyricist.",
+    "artistStrength": 6,
+    "artistCharisma": 5,
+    "artistAlignment": "good",
+    "artistIntelligence": 0,
+    "artistSpecialPowers": "Business and lyrical acumen"
+  },
+  {
+    "artistId": "41",
+    "artistName": "Enya",
+    "artistDescription": "Irish singer-songwriter known for ethereal soundscapes.",
+    "artistStrength": 6,
+    "artistCharisma": 0,
+    "artistAlignment": "neutral",
+    "artistIntelligence": 1,
+    "artistSpecialPowers": "Transcending space and time"
+  },
+  {
+    "artistId": "42",
+    "artistName": "Snoop Dogg",
+    "artistDescription": "Laid-back rap icon and pop culture fixture.",
+    "artistStrength": 0,
+    "artistCharisma": 7,
+    "artistAlignment": "good",
+    "artistIntelligence": 9,
+    "artistSpecialPowers": "Effortless flow"
+  },
+  {
+    "artistId": "43",
+    "artistName": "Kendrick Lamar",
+    "artistDescription": "Critically acclaimed rapper, Pulitzer Prize winner.",
+    "artistStrength": 0,
+    "artistCharisma": 5,
+    "artistAlignment": "evil",
+    "artistIntelligence": 2,
+    "artistSpecialPowers": "Master storyteller"
+  },
+  {
+    "artistId": "44",
+    "artistName": "Dolly Parton",
+    "artistDescription": "Country legend, philanthropist, and cultural icon.",
+    "artistStrength": 8,
+    "artistCharisma": 1,
+    "artistAlignment": "good",
+    "artistIntelligence": 6,
+    "artistSpecialPowers": "Country storytelling magic"
+  },
+  {
+    "artistId": "45",
+    "artistName": "Bjork",
+    "artistDescription": "Icelandic singer-songwriter known for experimental pop.",
+    "artistStrength": 1,
+    "artistCharisma": 5,
+    "artistAlignment": "evil",
+    "artistIntelligence": 0,
+    "artistSpecialPowers": "Boundary-pushing artistry"
+  },
+  {
+    "artistId": "46",
+    "artistName": "Chuck Berry",
+    "artistDescription": "Pioneer of rock and roll guitar.",
+    "artistStrength": 4,
+    "artistCharisma": 9,
+    "artistAlignment": "good",
+    "artistIntelligence": 6,
+    "artistSpecialPowers": "Inventing rock riffs"
+  },
+  {
+    "artistId": "47",
+    "artistName": "Janis Joplin",
+    "artistDescription": "Blues-rock singer with raw power and emotion.",
+    "artistStrength": 4,
+    "artistCharisma": 5,
+    "artistAlignment": "neutral",
+    "artistIntelligence": 9,
+    "artistSpecialPowers": "Vocal ferocity"
+  },
+  {
+    "artistId": "48",
+    "artistName": "Bruce Springsteen",
+    "artistDescription": "The 'Boss', rock icon and storyteller.",
+    "artistStrength": 0,
+    "artistCharisma": 5,
+    "artistAlignment": "evil",
+    "artistIntelligence": 7,
+    "artistSpecialPowers": "Blue-collar anthems"
+  },
+  {
+    "artistId": "49",
+    "artistName": "Patti Smith",
+    "artistDescription": "Punk poet and rock trailblazer.",
+    "artistStrength": 6,
+    "artistCharisma": 5,
+    "artistAlignment": "good",
+    "artistIntelligence": 1,
+    "artistSpecialPowers": "Turning poetry into rock"
+  },
+  {
+    "artistId": "50",
+    "artistName": "Yoko Ono",
+    "artistDescription": "Avant-garde artist, singer, and peace activist.",
+    "artistStrength": 9,
+    "artistCharisma": 0,
+    "artistAlignment": "neutral",
+    "artistIntelligence": 2,
+    "artistSpecialPowers": "Breaking musical boundaries"
+  },
+  {
+    "artistId": "51",
+    "artistName": "Tina Turner",
+    "artistDescription": "Rock and soul icon, known for powerful voice and endurance.",
+    "artistStrength": 1,
+    "artistCharisma": 7,
+    "artistAlignment": "good",
+    "artistIntelligence": 4,
+    "artistSpecialPowers": "Unstoppable stage energy"
+  },
+  {
+    "artistId": "52",
+    "artistName": "Leonard Cohen",
+    "artistDescription": "Poet, singer-songwriter, and novelist.",
+    "artistStrength": 5,
+    "artistCharisma": 6,
+    "artistAlignment": "neutral",
+    "artistIntelligence": 4,
+    "artistSpecialPowers": "Lyrical mysticism"
+  },
+  {
+    "artistId": "53",
+    "artistName": "Louis Armstrong",
+    "artistDescription": "Jazz trumpeter and singer, charismatic performer.",
+    "artistStrength": 4,
+    "artistCharisma": 2,
+    "artistAlignment": "good",
+    "artistIntelligence": 5,
+    "artistSpecialPowers": "Inventing scat vocals"
+  },
+  {
+    "artistId": "54",
+    "artistName": "Tom Waits",
+    "artistDescription": "Singer-songwriter with gravelly voice and surreal stories.",
+    "artistStrength": 7,
+    "artistCharisma": 9,
+    "artistAlignment": "good",
+    "artistIntelligence": 3,
+    "artistSpecialPowers": "Blending genres into noir"
+  },
+  {
+    "artistId": "55",
+    "artistName": "Sting",
+    "artistDescription": "The Police frontman and solo artist with a global sound.",
+    "artistStrength": 7,
+    "artistCharisma": 0,
+    "artistAlignment": "evil",
+    "artistIntelligence": 2,
+    "artistSpecialPowers": "Sting's signature storytelling"
+  },
+  {
+    "artistId": "56",
+    "artistName": "Mick Jagger",
+    "artistDescription": "Rolling Stones frontman, rock and blues icon.",
+    "artistStrength": 4,
+    "artistCharisma": 9,
+    "artistAlignment": "neutral",
+    "artistIntelligence": 2,
+    "artistSpecialPowers": "Endless energy"
+  },
+  {
+    "artistId": "57",
+    "artistName": "John Lennon",
+    "artistDescription": "Beatle, peace activist, and songwriter.",
+    "artistStrength": 2,
+    "artistCharisma": 3,
+    "artistAlignment": "neutral",
+    "artistIntelligence": 4,
+    "artistSpecialPowers": "Anthemic peace songs"
+  },
+  {
+    "artistId": "58",
+    "artistName": "Ringo Starr",
+    "artistDescription": "Drummer, Beatle, and solo artist.",
+    "artistStrength": 6,
+    "artistCharisma": 5,
+    "artistAlignment": "good",
+    "artistIntelligence": 0,
+    "artistSpecialPowers": "Steady rhythm"
+  },
+  {
+    "artistId": "59",
+    "artistName": "George Harrison",
+    "artistDescription": "Beatle, solo artist, spiritual songwriter.",
+    "artistStrength": 9,
+    "artistCharisma": 6,
+    "artistAlignment": "evil",
+    "artistIntelligence": 7,
+    "artistSpecialPowers": "Spiritual guitar solos"
+  },
+  {
+    "artistId": "60",
+    "artistName": "Ozzy Osbourne",
+    "artistDescription": "Heavy metal pioneer and showman.",
+    "artistStrength": 6,
+    "artistCharisma": 4,
+    "artistAlignment": "evil",
+    "artistIntelligence": 8,
+    "artistSpecialPowers": "Prince of Darkness shrieks"
+  },
+  {
+    "artistId": "61",
+    "artistName": "Amy Winehouse",
+    "artistDescription": "Soul and jazz singer with a unique voice.",
+    "artistStrength": 0,
+    "artistCharisma": 7,
+    "artistAlignment": "evil",
+    "artistIntelligence": 8,
+    "artistSpecialPowers": "Raw, confessional songwriting"
+  },
+  {
+    "artistId": "62",
+    "artistName": "Brian May",
+    "artistDescription": "Queen guitarist and astrophysicist.",
+    "artistStrength": 2,
+    "artistCharisma": 6,
+    "artistAlignment": "neutral",
+    "artistIntelligence": 8,
+    "artistSpecialPowers": "Guitar orchestrations"
+  },
+  {
+    "artistId": "63",
+    "artistName": "Debbie Harry",
+    "artistDescription": "Blondie lead singer, punk and new wave icon.",
+    "artistStrength": 4,
+    "artistCharisma": 1,
+    "artistAlignment": "good",
+    "artistIntelligence": 9,
+    "artistSpecialPowers": "Punk-pop vocals"
+  },
+  {
+    "artistId": "64",
+    "artistName": "Robbie Williams",
+    "artistDescription": "Pop singer-songwriter and entertainer.",
+    "artistStrength": 4,
+    "artistCharisma": 8,
+    "artistAlignment": "neutral",
+    "artistIntelligence": 0,
+    "artistSpecialPowers": "Crowd-pleasing charisma"
+  },
+  {
+    "artistId": "65",
+    "artistName": "B.B. King",
+    "artistDescription": "Blues guitarist and singer, master of the vibrato.",
+    "artistStrength": 3,
+    "artistCharisma": 2,
+    "artistAlignment": "good",
+    "artistIntelligence": 9,
+    "artistSpecialPowers": "Lucille's blue tones"
+  },
+  {
+    "artistId": "66",
+    "artistName": "Eminem",
+    "artistDescription": "Acclaimed rapper and lyricist, controversial and creative.",
+    "artistStrength": 3,
+    "artistCharisma": 8,
+    "artistAlignment": "neutral",
+    "artistIntelligence": 2,
+    "artistSpecialPowers": "Machine-gun rhymes"
+  },
+  {
+    "artistId": "67",
+    "artistName": "Phil Collins",
+    "artistDescription": "Genesis drummer, solo artist, pop hitmaker.",
+    "artistStrength": 9,
+    "artistCharisma": 7,
+    "artistAlignment": "neutral",
+    "artistIntelligence": 5,
+    "artistSpecialPowers": "Drum fills and pop hooks"
+  },
+  {
+    "artistId": "68",
+    "artistName": "Diana Ross",
+    "artistDescription": "Motown and disco legend, supreme vocalist.",
+    "artistStrength": 2,
+    "artistCharisma": 4,
+    "artistAlignment": "evil",
+    "artistIntelligence": 5,
+    "artistSpecialPowers": "Motown magic"
+  },
+  {
+    "artistId": "69",
+    "artistName": "Katy Perry",
+    "artistDescription": "Pop singer-songwriter, hitmaker with vibrant visuals.",
+    "artistStrength": 8,
+    "artistCharisma": 3,
+    "artistAlignment": "neutral",
+    "artistIntelligence": 0,
+    "artistSpecialPowers": "Candy-coated hooks"
+  },
+  {
+    "artistId": "70",
+    "artistName": "Travis Scott",
+    "artistDescription": "Rap and trap innovator, high-energy performer.",
+    "artistStrength": 3,
+    "artistCharisma": 2,
+    "artistAlignment": "neutral",
+    "artistIntelligence": 0,
+    "artistSpecialPowers": "Hypnotic autotune"
+  },
+  {
+    "artistId": "71",
+    "artistName": "Jon Bon Jovi",
+    "artistDescription": "Rock singer and bandleader, arena anthem creator.",
+    "artistStrength": 7,
+    "artistCharisma": 5,
+    "artistAlignment": "neutral",
+    "artistIntelligence": 9,
+    "artistSpecialPowers": "Rock anthems"
+  },
+  {
+    "artistId": "72",
+    "artistName": "Fela Kuti",
+    "artistDescription": "Afrobeat pioneer, activist, and musician.",
+    "artistStrength": 3,
+    "artistCharisma": 0,
+    "artistAlignment": "neutral",
+    "artistIntelligence": 5,
+    "artistSpecialPowers": "Political grooves"
+  },
+  {
+    "artistId": "73",
+    "artistName": "Sam Smith",
+    "artistDescription": "Pop and soul singer with heartfelt ballads.",
+    "artistStrength": 7,
+    "artistCharisma": 4,
+    "artistAlignment": "good",
+    "artistIntelligence": 8,
+    "artistSpecialPowers": "Emotional resonance"
+  },
+  {
+    "artistId": "74",
+    "artistName": "Sia",
+    "artistDescription": "Songwriter and pop powerhouse, known for mysterious image.",
+    "artistStrength": 1,
+    "artistCharisma": 6,
+    "artistAlignment": "good",
+    "artistIntelligence": 4,
+    "artistSpecialPowers": "Anthemic choruses"
+  },
+  {
+    "artistId": "75",
+    "artistName": "Lizzo",
+    "artistDescription": "Singer, rapper, and flutist promoting empowerment.",
+    "artistStrength": 1,
+    "artistCharisma": 2,
+    "artistAlignment": "neutral",
+    "artistIntelligence": 8,
+    "artistSpecialPowers": "Flute solos and confidence"
+  },
+  {
+    "artistId": "76",
+    "artistName": "Dua Lipa",
+    "artistDescription": "Pop singer blending retro and modern dance sounds.",
+    "artistStrength": 0,
+    "artistCharisma": 7,
+    "artistAlignment": "neutral",
+    "artistIntelligence": 6,
+    "artistSpecialPowers": "Disco-infused pop"
+  },
+  {
+    "artistId": "77",
+    "artistName": "Andrea Bocelli",
+    "artistDescription": "Italian tenor with a crossover classical-pop appeal.",
+    "artistStrength": 6,
+    "artistCharisma": 0,
+    "artistAlignment": "evil",
+    "artistIntelligence": 5,
+    "artistSpecialPowers": "Soaring tenor notes"
+  },
+  {
+    "artistId": "78",
+    "artistName": "Bill Withers",
+    "artistDescription": "Soul singer-songwriter, master of simplicity.",
+    "artistStrength": 4,
+    "artistCharisma": 9,
+    "artistAlignment": "evil",
+    "artistIntelligence": 0,
+    "artistSpecialPowers": "Timeless songwriting"
+  },
+  {
+    "artistId": "79",
+    "artistName": "Gloria Estefan",
+    "artistDescription": "Queen of Latin pop, crossover superstar.",
+    "artistStrength": 9,
+    "artistCharisma": 2,
+    "artistAlignment": "good",
+    "artistIntelligence": 0,
+    "artistSpecialPowers": "Cuban rhythms"
+  },
+  {
+    "artistId": "80",
+    "artistName": "Willie Nelson",
+    "artistDescription": "Country outlaw and legendary songwriter.",
+    "artistStrength": 4,
+    "artistCharisma": 1,
+    "artistAlignment": "good",
+    "artistIntelligence": 2,
+    "artistSpecialPowers": "Highway ballads"
+  },
+  {
+    "artistId": "81",
+    "artistName": "Carlos Santana",
+    "artistDescription": "Guitar virtuoso blending Latin and rock.",
+    "artistStrength": 7,
+    "artistCharisma": 9,
+    "artistAlignment": "neutral",
+    "artistIntelligence": 6,
+    "artistSpecialPowers": "Magical guitar solos"
+  },
+  {
+    "artistId": "82",
+    "artistName": "Bj\u00f6rk",
+    "artistDescription": "Icelandic singer and electronic music innovator.",
+    "artistStrength": 1,
+    "artistCharisma": 2,
+    "artistAlignment": "good",
+    "artistIntelligence": 8,
+    "artistSpecialPowers": "Vocal experimentation"
+  },
+  {
+    "artistId": "83",
+    "artistName": "Barry Gibb",
+    "artistDescription": "Bee Gees frontman, disco and pop hitmaker.",
+    "artistStrength": 8,
+    "artistCharisma": 6,
+    "artistAlignment": "evil",
+    "artistIntelligence": 2,
+    "artistSpecialPowers": "Falsetto harmonies"
+  },
+  {
+    "artistId": "84",
+    "artistName": "Mick Fleetwood",
+    "artistDescription": "Fleetwood Mac drummer and bandleader.",
+    "artistStrength": 1,
+    "artistCharisma": 0,
+    "artistAlignment": "neutral",
+    "artistIntelligence": 7,
+    "artistSpecialPowers": "Rock-solid rhythm"
+  },
+  {
+    "artistId": "85",
+    "artistName": "Lana Del Rey",
+    "artistDescription": "Pop noir singer-songwriter with cinematic sound.",
+    "artistStrength": 5,
+    "artistCharisma": 0,
+    "artistAlignment": "evil",
+    "artistIntelligence": 3,
+    "artistSpecialPowers": "Atmospheric melancholy"
+  },
+  {
+    "artistId": "86",
+    "artistName": "Meat Loaf",
+    "artistDescription": "Rock opera singer and actor.",
+    "artistStrength": 4,
+    "artistCharisma": 3,
+    "artistAlignment": "neutral",
+    "artistIntelligence": 0,
+    "artistSpecialPowers": "Epic rock vocals"
+  },
+  {
+    "artistId": "87",
+    "artistName": "Jerry Garcia",
+    "artistDescription": "Grateful Dead leader, jam band legend.",
+    "artistStrength": 7,
+    "artistCharisma": 2,
+    "artistAlignment": "good",
+    "artistIntelligence": 8,
+    "artistSpecialPowers": "Cosmic guitar improvisation"
+  },
+  {
+    "artistId": "88",
+    "artistName": "Shania Twain",
+    "artistDescription": "Country-pop crossover queen.",
+    "artistStrength": 6,
+    "artistCharisma": 8,
+    "artistAlignment": "evil",
+    "artistIntelligence": 4,
+    "artistSpecialPowers": "Hook-laden anthems"
+  },
+  {
+    "artistId": "89",
+    "artistName": "Gwen Stefani",
+    "artistDescription": "No Doubt frontwoman, solo pop star.",
+    "artistStrength": 9,
+    "artistCharisma": 6,
+    "artistAlignment": "neutral",
+    "artistIntelligence": 4,
+    "artistSpecialPowers": "Infectious hooks"
+  },
+  {
+    "artistId": "90",
+    "artistName": "Placido Domingo",
+    "artistDescription": "Opera tenor and conductor.",
+    "artistStrength": 1,
+    "artistCharisma": 8,
+    "artistAlignment": "neutral",
+    "artistIntelligence": 3,
+    "artistSpecialPowers": "Operatic power"
+  },
+  {
+    "artistId": "91",
+    "artistName": "Paul Simon",
+    "artistDescription": "Simon & Garfunkel legend and solo folk-pop innovator.",
+    "artistStrength": 1,
+    "artistCharisma": 0,
+    "artistAlignment": "evil",
+    "artistIntelligence": 6,
+    "artistSpecialPowers": "Story songs"
+  },
+  {
+    "artistId": "92",
+    "artistName": "Peter Gabriel",
+    "artistDescription": "Genesis frontman and solo progressive pop pioneer.",
+    "artistStrength": 3,
+    "artistCharisma": 4,
+    "artistAlignment": "neutral",
+    "artistIntelligence": 9,
+    "artistSpecialPowers": "World music wizardry"
+  },
+  {
+    "artistId": "93",
+    "artistName": "Alicia Keys",
+    "artistDescription": "Soulful R&B singer, pianist, and songwriter.",
+    "artistStrength": 1,
+    "artistCharisma": 3,
+    "artistAlignment": "good",
+    "artistIntelligence": 9,
+    "artistSpecialPowers": "Piano-driven pop"
+  },
+  {
+    "artistId": "94",
+    "artistName": "Drake",
+    "artistDescription": "Chart-topping rapper and singer.",
+    "artistStrength": 5,
+    "artistCharisma": 8,
+    "artistAlignment": "good",
+    "artistIntelligence": 1,
+    "artistSpecialPowers": "Emotional hooks"
+  },
+  {
+    "artistId": "95",
+    "artistName": "The Edge",
+    "artistDescription": "U2 guitarist with distinctive sound.",
+    "artistStrength": 5,
+    "artistCharisma": 0,
+    "artistAlignment": "evil",
+    "artistIntelligence": 8,
+    "artistSpecialPowers": "Echo-laden guitar riffs"
+  },
+  {
+    "artistId": "96",
+    "artistName": "Billie Holiday",
+    "artistDescription": "Jazz and blues singer, iconic voice.",
+    "artistStrength": 7,
+    "artistCharisma": 2,
+    "artistAlignment": "evil",
+    "artistIntelligence": 0,
+    "artistSpecialPowers": "Soulful phrasing"
+  },
+  {
+    "artistId": "97",
+    "artistName": "Selena",
+    "artistDescription": "Queen of Tejano music.",
+    "artistStrength": 3,
+    "artistCharisma": 8,
+    "artistAlignment": "good",
+    "artistIntelligence": 5,
+    "artistSpecialPowers": "Crossover pop power"
+  },
+  {
+    "artistId": "98",
+    "artistName": "Joe Strummer",
+    "artistDescription": "The Clash frontman, punk and rock activist.",
+    "artistStrength": 4,
+    "artistCharisma": 0,
+    "artistAlignment": "good",
+    "artistIntelligence": 6,
+    "artistSpecialPowers": "Punk poetry"
+  },
+  {
+    "artistId": "99",
+    "artistName": "Erykah Badu",
+    "artistDescription": "Neo-soul singer and songwriter.",
+    "artistStrength": 9,
+    "artistCharisma": 2,
+    "artistAlignment": "neutral",
+    "artistIntelligence": 7,
+    "artistSpecialPowers": "Eccentric soul"
+  },
+  {
+    "artistId": "100",
+    "artistName": "Jack White",
+    "artistDescription": "The White Stripes guitarist, alternative rock innovator.",
+    "artistStrength": 2,
+    "artistCharisma": 9,
+    "artistAlignment": "evil",
+    "artistIntelligence": 5,
+    "artistSpecialPowers": "Garage rock revival"
+  },
+  {
+    "artistId": "101",
+    "artistName": "Fiona Apple",
+    "artistDescription": "Singer-songwriter known for raw emotion and originality.",
+    "artistStrength": 1,
+    "artistCharisma": 3,
+    "artistAlignment": "evil",
+    "artistIntelligence": 5,
+    "artistSpecialPowers": "Piano poetry"
+  },
+  {
+    "artistId": "102",
+    "artistName": "Tom Petty",
+    "artistDescription": "Heartbreakers frontman and roots rock hero.",
+    "artistStrength": 0,
+    "artistCharisma": 8,
+    "artistAlignment": "good",
+    "artistIntelligence": 2,
+    "artistSpecialPowers": "Timeless melodies"
+  },
+  {
+    "artistId": "103",
+    "artistName": "Peter Frampton",
+    "artistDescription": "Rock guitarist and talk box pioneer.",
+    "artistStrength": 9,
+    "artistCharisma": 7,
+    "artistAlignment": "evil",
+    "artistIntelligence": 6,
+    "artistSpecialPowers": "Talk box wizardry"
+  }
+]
